@@ -1,0 +1,10 @@
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\bin\Debug\Salsa20Cipher.exe.config
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\bin\Debug\Salsa20Cipher.exe
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\bin\Debug\Salsa20Cipher.pdb
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.csprojAssemblyReference.cache
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.Form1.resources
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.Properties.Resources.resources
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.csproj.GenerateResource.cache
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.csproj.CoreCompileInputs.cache
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.exe
+C:\Users\FacundoBistolfi\NET\cripto\Salsa20Cipher\Salsa20Cipher\obj\Debug\Salsa20Cipher.pdb
